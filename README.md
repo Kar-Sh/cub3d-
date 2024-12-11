@@ -59,7 +59,7 @@ The objectives of this project include:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/cub3D.git
+   git clone https://github.com/Kar-Sh/cub3d-.git
    cd cub3D
    ```
 
