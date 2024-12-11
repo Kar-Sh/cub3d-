@@ -3,7 +3,6 @@
 ![Video Description](cub.gif)
 
 
-# cub3D - My First RayCaster with miniLibX
 
 cub3D is a 3D graphical representation of a maze, inspired by Wolfenstein 3D, using ray-casting techniques. This project enhances your skills in C programming, mathematics, and graphical design through MiniLibX.
 
